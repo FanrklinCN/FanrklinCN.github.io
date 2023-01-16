@@ -1,1 +1,2 @@
-# FanrklinCN.github.io
+# THZ的个人网站
+这是一个网站，它将永久托管在Github
